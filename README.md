@@ -7,9 +7,9 @@
 
 -------------------------------
 
-**Personal Website:** <a href = "https://1107.siwg.top/">1107.siwg.top</a>
+**Website:** <a href = "https://1107.siwg.top/">1107.siwg.top</a>
 
-**Personal Email** <a href = "mailto:1107@siwg.top">1107@siwg.top</a>
+**Email** <a href = "mailto:1107@siwg.top">1107@siwg.top</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=awa...;QwQ.....;TmT...)](https://git.io/typing-svg)
 
